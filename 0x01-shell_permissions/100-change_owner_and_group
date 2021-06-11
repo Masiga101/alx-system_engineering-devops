@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 sudo chown -R betty.holberton ./
+=======
+chown betty:holberton *
+>>>>>>> 0185d7024691e53f9dfe74ad4b8f2d932d439d38
